@@ -1,4 +1,4 @@
-studying computer science. Passionate about GameDev, and I'm always eager to learn new things.
+studying computer science. Passionate about GameDev, and eager to learn new things.
 
 ## About Me
 
