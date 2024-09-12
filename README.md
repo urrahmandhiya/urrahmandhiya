@@ -10,13 +10,13 @@
 
 ###
 
-<p align="left">
-📚 I'm currently learning web frontend and game dev<br>
-🎯 Goals: I wanted to be good at what I'm doing<br>
-📧 Email: [urrahmand0@gmail.com](mailto:urrahmand0@gmail.com)<br>
-🎲 Fun fact: I believe cucumber doesn't belong in Sushi<br><br>
+📚 I'm currently learning web frontend and game dev  
+🎯 Goals: I want to be good at what I'm doing  
+📧 Email: [urrahmand0@gmail.com](mailto:urrahmand0@gmail.com)  
+🎲 Fun fact: I believe cucumber doesn't belong in Sushi  
+
 Feel free to reach out!
-</p>
+
 
 ###
 
